@@ -34,8 +34,6 @@ View the GIF below to see our app in action:
 
 ![recipeze screenshot](./assets/recipeze-screenshot.png)
 
-Please click [here](link to video demo here) for a video demo.
-
 ## Link
 Visit the deployed site at: (https://andrewbyoo-recipeze.herokuapp.com/)
 
