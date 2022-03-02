@@ -17,7 +17,6 @@ SO THAT I can easily plan my week’s meals
 - [Collaborators](#collaborators)
 - [License](#license)
 - [Features](#features)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -29,7 +28,7 @@ SO THAT I can easily plan my week’s meals
   6. On (https://www.edamam.com/), sign up for a free API Key for adding to your .env files.
   5. Add a .env file in both the client and server folder. The server .env file should contain a `JWT=` secret password and the client .env file should contain a `REACT_APP_API_KEY=` and a `REACT_APP_API_ID=` which will require your personal API Key information.
   6. Run `npm run seed && build` and then `npm run develop`
-it 
+it
 ## Usage
 View the GIF below to see our app in action:
 
@@ -57,9 +56,6 @@ This application is covered under the MIT license.
 - React based front end
 - GraphQL with Node.js and Express.js server
 - MongoDB and Mongoose ODM for the database
-
-## Tests
-Coming soon!
 
 ## Questions
 To reach out with questions via email or to view more of our projects, visit our GitHub profile pages listed within the [Collaborators](#collaborators) section.
