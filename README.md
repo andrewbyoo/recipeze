@@ -1,5 +1,5 @@
 # recipeze
-
+[![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 ## Description
 An app for finding recipes and planning meals for the week.
 
@@ -50,7 +50,6 @@ Warren Haskins - GitHub: [warrenhaskins1](https://github.com/warrenhaskins1)
 
 ## License
 This application is covered under the MIT license.
-[![license](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 ## Features
 - React based front end
