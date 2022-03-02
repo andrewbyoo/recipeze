@@ -30,7 +30,6 @@ SO THAT I can easily plan my week’s meals
   6. Run `npm run seed && build` and then `npm run develop`
 it
 ## Usage
-View the GIF below to see our app in action:
 
 ![recipeze screenshot](./assets/recipeze-screenshot.png)
 
