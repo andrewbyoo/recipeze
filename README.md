@@ -28,7 +28,7 @@ SO THAT I can easily plan my week’s meals
   6. On (https://www.edamam.com/), sign up for a free API Key for adding to your .env files.
   5. Add a .env file in both the client and server folder. The server .env file should contain a `JWT=` secret password and the client .env file should contain a `REACT_APP_API_KEY=` and a `REACT_APP_API_ID=` which will require your personal API Key information.
   6. Run `npm run seed && build` and then `npm run develop`
-it
+
 ## Usage
 
 ![recipeze screenshot](./assets/recipeze-screenshot.png)
