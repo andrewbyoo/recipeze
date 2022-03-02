@@ -32,7 +32,7 @@ it
 ## Usage
 View the GIF below to see our app in action:
 
-![Visual alt description](Path to visual here)
+![recipeze screenshot](Path to visual here)
 
 Please click [here](link to video demo here) for a video demo.
 
