@@ -32,12 +32,12 @@ it
 ## Usage
 View the GIF below to see our app in action:
 
-![recipeze screenshot](Path to visual here)
+![recipeze screenshot](./assets/recipeze-screenshot.png)
 
 Please click [here](link to video demo here) for a video demo.
 
 ## Link
-Visit the deployed site at: (https://kara-heeb-recipeze.herokuapp.com/)
+Visit the deployed site at: (https://andrewbyoo-recipeze.herokuapp.com/)
 
 ## Collaborators
 Andrew Yoo - GitHub: [andrewbyoo](https://github.com/andrewbyoo)
